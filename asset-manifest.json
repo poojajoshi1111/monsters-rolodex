@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/poojajoshi1111.github.io/momsters-rolodex/static/css/main.8a4c2e41.chunk.css",
+    "main.js": "/poojajoshi1111.github.io/momsters-rolodex/static/js/main.7de409ce.chunk.js",
+    "main.js.map": "/poojajoshi1111.github.io/momsters-rolodex/static/js/main.7de409ce.chunk.js.map",
+    "runtime-main.js": "/poojajoshi1111.github.io/momsters-rolodex/static/js/runtime-main.6d620b6c.js",
+    "runtime-main.js.map": "/poojajoshi1111.github.io/momsters-rolodex/static/js/runtime-main.6d620b6c.js.map",
+    "static/js/2.4058bf1b.chunk.js": "/poojajoshi1111.github.io/momsters-rolodex/static/js/2.4058bf1b.chunk.js",
+    "static/js/2.4058bf1b.chunk.js.map": "/poojajoshi1111.github.io/momsters-rolodex/static/js/2.4058bf1b.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/poojajoshi1111.github.io/momsters-rolodex/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/poojajoshi1111.github.io/momsters-rolodex/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/poojajoshi1111.github.io/momsters-rolodex/index.html",
+    "static/css/main.8a4c2e41.chunk.css.map": "/poojajoshi1111.github.io/momsters-rolodex/static/css/main.8a4c2e41.chunk.css.map",
+    "static/js/2.4058bf1b.chunk.js.LICENSE.txt": "/poojajoshi1111.github.io/momsters-rolodex/static/js/2.4058bf1b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/poojajoshi1111.github.io/momsters-rolodex/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d620b6c.js",
+    "static/js/2.4058bf1b.chunk.js",
+    "static/css/main.8a4c2e41.chunk.css",
+    "static/js/main.7de409ce.chunk.js"
+  ]
+}
